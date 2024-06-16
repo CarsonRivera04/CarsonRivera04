@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CarsonRivera04?tab=repositories](https://github.com/CarsonRivera04?tab=repositories)
+- 👨‍💻 All of my projects are available in my [repositories](https://github.com/CarsonRivera04?tab=repositories)
 
 - 🔬 I'm currently researching **temporal information extraction using LLMs at Florida International University's Cognac Lab**
 
