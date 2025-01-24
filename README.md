@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Computer Science @ Florida State University <br>- Technology QA Intern @ Merck
+- Computer Science @ Florida State University
+- Technology QA Intern @ Merck
 
 
 ## 🌐 Socials:
