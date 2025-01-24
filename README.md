@@ -1,6 +1,6 @@
 # About Me:
 - Computer science student at Florida State University
-- Technology QA Intern at Merck
+- Summer 2025 Technology QA Intern at Merck
 
 
 ## Socials:
